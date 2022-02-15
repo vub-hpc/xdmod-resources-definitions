@@ -25,7 +25,7 @@
     },
     {
         "resource": "hydra-bvo00025",
-        "name": "VUB Hydra: bvo00025 partition",
+        "name": "VUB Hydra: bvo00025 GPU",
         "description": "The bvo00025 partition of Hydra",
         "resource_type": "Thin",
         "pi_column": "account_name",
