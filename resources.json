@@ -1,7 +1,7 @@
 [
     {
         "resource": "hydra-ampere_gpu",
-        "name": "VUB Hydra: ampere_gpu partition",
+        "name": "VUB Hydra: Ampere GPU",
         "description": "The ampere_gpu partition of Hydra",
         "resource_type": "Accelerators machine",
         "pi_column": "account_name",
