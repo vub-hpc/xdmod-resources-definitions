@@ -1,0 +1,74 @@
+[
+    {
+        "resource": "hydra-ampere_gpu",
+        "name": "VUB Hydra: ampere_gpu partition",
+        "description": "The ampere_gpu partition of Hydra",
+        "resource_type": "Accelerators machine",
+        "pi_column": "account_name",
+        "shared_jobs": true
+    },
+    {
+        "resource": "hydra-broadwell",
+        "name": "VUB Hydra: broadwell partition",
+        "description": "The broadwell partition of Hydra",
+        "resource_type": "Thin",
+        "pi_column": "account_name",
+        "shared_jobs": true
+    },
+    {
+        "resource": "hydra-broadwell_himem",
+        "name": "VUB Hydra: broadwell_himem partition",
+        "description": "The broadwell_himem partition of Hydra",
+        "resource_type": "Shared memory machine",
+        "pi_column": "account_name",
+        "shared_jobs": true
+    },
+    {
+        "resource": "hydra-bvo00025",
+        "name": "VUB Hydra: bvo00025 partition",
+        "description": "The bvo00025 partition of Hydra",
+        "resource_type": "Thin",
+        "pi_column": "account_name",
+        "shared_jobs": true
+    },
+    {
+        "resource": "hydra-ivybridge_mpi",
+        "name": "VUB Hydra: ivybridge_mpi partition",
+        "description": "The ivybridge_mpi partition of Hydra",
+        "resource_type": "Thin",
+        "pi_column": "account_name",
+        "shared_jobs": true
+    },
+    {
+        "resource": "hydra-kepler_gpu",
+        "name": "VUB Hydra: kepler_gpu partition",
+        "description": "The kepler_gpu partition of Hydra",
+        "resource_type": "Accelerators machine",
+        "pi_column": "account_name",
+        "shared_jobs": true
+    },
+    {
+        "resource": "hydra-pascal_gpu",
+        "name": "VUB Hydra: pascal_gpu partition",
+        "description": "The pascal_gpu partition of Hydra",
+        "resource_type": "Accelerators machine",
+        "pi_column": "account_name",
+        "shared_jobs": true
+    },
+    {
+        "resource": "hydra-skylake",
+        "name": "VUB Hydra: skylake partition",
+        "description": "The skylake partition of Hydra",
+        "resource_type": "Thin",
+        "pi_column": "account_name",
+        "shared_jobs": true
+    },
+    {
+        "resource": "hydra-skylake_mpi",
+        "name": "VUB Hydra: skylake_mpi partition",
+        "description": "The skylake_mpi partition of Hydra",
+        "resource_type": "Thin",
+        "pi_column": "account_name",
+        "shared_jobs": true
+    }
+]
