@@ -33,7 +33,7 @@
     },
     {
         "resource": "hydra-ivybridge_mpi",
-        "name": "VUB Hydra: ivybridge_mpi partition",
+        "name": "VUB Hydra: Ivybridge IB",
         "description": "The ivybridge_mpi partition of Hydra",
         "resource_type": "Thin",
         "pi_column": "account_name",
