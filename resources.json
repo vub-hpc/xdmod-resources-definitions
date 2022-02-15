@@ -41,7 +41,7 @@
     },
     {
         "resource": "hydra-kepler_gpu",
-        "name": "VUB Hydra: kepler_gpu partition",
+        "name": "VUB Hydra: Kepler GPU",
         "description": "The kepler_gpu partition of Hydra",
         "resource_type": "Accelerators machine",
         "pi_column": "account_name",
