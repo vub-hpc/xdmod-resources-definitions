@@ -57,7 +57,7 @@
     },
     {
         "resource": "hydra-skylake",
-        "name": "VUB Hydra: skylake partition",
+        "name": "VUB Hydra: Skylake",
         "description": "The skylake partition of Hydra",
         "resource_type": "Thin",
         "pi_column": "account_name",
