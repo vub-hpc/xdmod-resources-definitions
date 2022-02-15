@@ -49,7 +49,7 @@
     },
     {
         "resource": "hydra-pascal_gpu",
-        "name": "VUB Hydra: pascal_gpu partition",
+        "name": "VUB Hydra: Pascal GPU",
         "description": "The pascal_gpu partition of Hydra",
         "resource_type": "Accelerators machine",
         "pi_column": "account_name",
