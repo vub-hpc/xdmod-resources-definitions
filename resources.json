@@ -17,7 +17,7 @@
     },
     {
         "resource": "hydra-broadwell_himem",
-        "name": "VUB Hydra: broadwell_himem partition",
+        "name": "VUB Hydra: Broadwell Hi-Mem",
         "description": "The broadwell_himem partition of Hydra",
         "resource_type": "Shared memory machine",
         "pi_column": "account_name",
