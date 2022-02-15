@@ -9,7 +9,7 @@
     },
     {
         "resource": "hydra-broadwell",
-        "name": "VUB Hydra: broadwell partition",
+        "name": "VUB Hydra: Broadwell",
         "description": "The broadwell partition of Hydra",
         "resource_type": "Thin",
         "pi_column": "account_name",
