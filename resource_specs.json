@@ -33,7 +33,8 @@
         "resource": "hydra-kepler_gpu",
         "nodes": 6,
         "ppn": 20,
-        "processors": 120
+        "processors": 120,
+        "end_date": "2022-04-08"
     },
     {
         "resource": "hydra-pascal_gpu",
